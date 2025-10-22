@@ -22,7 +22,7 @@ $$A = 1 + 2.2(x - 1.5)^2, \quad 0 \le x \le 3$$
 
 The throat of the nozzle (minimum area) is located at $x = 1.5$.
 
-![Schematic of the Nozzle Geometry](images/nozzle_geometry.png)
+![Schematic of the Nozzle Geometry](readme_images/nozzle_geometry.png)
 *(Image from Figure 2 in the project report )*
 
 ### Numerical Scheme
@@ -49,9 +49,9 @@ This case models choked flow, where the flow accelerates from subsonic at the in
 
 | Pressure Distribution | Density Distribution |
 | :---: | :---: |
-| ![Sub-Super Pressure Plot](images/sub-super_pressure.png) | ![Sub-Super Density Plot](images/sub-super_density.png) |
+| ![Sub-Super Pressure Plot](readme_images/sub-super_pressure.png) | ![Sub-Super Density Plot](readme_images/sub-super_density.png) |
 | **Temperature Distribution** | **Mach Number Distribution** |
-| ![Sub-Super Temperature Plot](images/sub-super_temperature.png) | ![Sub-Super Mach Plot](images/sub-super_mach.png) |
+| ![Sub-Super Temperature Plot](readme_images/sub-super_temperature.png) | ![Sub-Super Mach Plot](readme_images/sub-super_mach.png) |
 *(Results from Figures 5, 6, 7, and 8 in the project report )*
 
 ---
@@ -68,7 +68,7 @@ This case models un-choked flow, where the flow accelerates in the converging se
 
 | Pressure Distribution | Mach Number Distribution |
 | :---: | :---: |
-| ![Sub-Sub Pressure Plot](images/sub-sub_pressure.png) | ![Sub-Sub Mach Plot](images/sub-sub_mach.png) |
+| ![Sub-Sub Pressure Plot](readme_images/sub-sub_pressure.png) | ![Sub-Sub Mach Plot](readme_images/sub-sub_mach.png) |
 *(Results from Figures 9 and 12 in the project report )*
 
 ## Files in This Repository
